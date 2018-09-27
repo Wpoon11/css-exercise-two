@@ -1,6 +1,31 @@
 body {
-  background-color: #ff0000;
+  background-color: #d9d5d2;
   color: #0000FF;
+  font-size: 15px;
+  line-height: normal;
+}
+h1 {
+  font-family: fantasy;
+  font-size: 30px;
+  font-weight: 200;
+  line-height: normal;
+  color:#91867e
+}
+h3 {
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: lighter;
+  color:#74a18e
+}
+
+.author{ color:#1129c2}
+.story-text{
+  line-height: normal;
+  color:#ad85ba
+}
+
+p{
+    padding-bottom: 1em;
 }
 
 nav {
@@ -31,6 +56,14 @@ nav {
 .right {
   float: right;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:link { color:#523257}
+a:visited { color:#948d0a}
+a:hover { color:#6b6717}
 
 ul {
   list-style-type: none;
