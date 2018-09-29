@@ -6,7 +6,7 @@ body {
 }
 h1 {
   font-family: fantasy;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 200;
   line-height: normal;
   color:#91867e
@@ -26,6 +26,7 @@ h3 {
 
 p{
     padding-bottom: 1em;
+    font-size: 13pt;
 }
 
 nav {
@@ -62,8 +63,8 @@ a {
 }
 
 a:link { color:#523257}
-a:visited { color:#948d0a}
-a:hover { color:#6b6717}
+a:visited { color:#fff}
+a:hover { color:#f5e50c}
 
 ul {
   list-style-type: none;
